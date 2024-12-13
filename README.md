@@ -1,0 +1,2 @@
+# Ada Subtype Conversion and Array Slicing Bug
+This repository demonstrates a potential error in Ada related to subtype conversion and array slicing. The bug arises from a situation where a subtype is assigned a slice of an array, potentially causing a runtime error if not handled appropriately.  The solution demonstrates how to handle potential issues and prevent runtime errors.
